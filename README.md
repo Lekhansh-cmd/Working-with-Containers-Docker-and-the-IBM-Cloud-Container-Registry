@@ -1,4 +1,8 @@
 # Working with Containers Docker and the IBM Cloud Container Registry
+
+This is the guided project by IBM Cognitive Class AI. 
+
+## Aim
 This project aims to provide the basic working and applications of Containerization. In this guided project, you will run a Docker image as a container and explore the exciting world of cloud container applications.
 
 In this guided project, you will explore basic cloud container operations and discover how containers support modern cloud application development. A container is a software package that contains application code including libraries and dependencies. Containers are portable, running on desktops, on-premises servers, or the cloud.
