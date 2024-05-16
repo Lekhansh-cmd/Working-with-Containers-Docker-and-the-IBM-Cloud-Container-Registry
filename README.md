@@ -12,11 +12,11 @@ Docker uses a client-server architecture. The Docker client talks to the Docker 
 
 <img width="761" alt="image" src="https://github.com/Lekhansh-cmd/Working-with-Containers-Docker-and-the-IBM-Cloud-Container-Registry/assets/78807364/421b11c9-34d4-45a3-8cae-3e5ffa229411">
 
-## Tools and Technologies Used:
+## Tools and Technologies Used
 1. IBM Skills Network Labs environment
 2. Docker Hub
    
-## Objectives:
+## Objectives
 
 Take a look at the basic objectives of this guided project provided by IBM Cognitive Class.
 1. Pull an image from the Docker Hub
