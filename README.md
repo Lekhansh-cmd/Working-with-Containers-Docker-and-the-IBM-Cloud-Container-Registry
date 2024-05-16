@@ -12,7 +12,7 @@ You will work with Docker images, and files with code that you execute to build 
 This guided project will prepare you to use containers with microservices architecture as a foundation for DevOps cloud application development.
 
 ## Docker architecture
-Docker uses a client-server architecture. The Docker client talks to the Docker daemon, which does the heavy lifting of building, running, and distributing your Docker containers. The Docker client and daemon can run on the same system, or you can connect a Docker client to a remote Docker daemon. The Docker client and daemon communicate using a REST API, over UNIX sockets or a network interface. Another Docker client is Docker Compose, that lets you work with applications consisting of a set of containers.
+Docker uses a client-server architecture. The Docker client talks to the Docker daemon, which does the heavy lifting of building, running, and distributing your Docker containers. The Docker client and daemon can run on the same system, or you can connect a Docker client to a remote Docker daemon. The Docker client and daemon communicate using a REST API, over UNIX sockets or a network interface. Another Docker client is Docker Compose, which lets you work with applications consisting of a set of containers.
 
 <img width="761" alt="image" src="https://github.com/Lekhansh-cmd/Working-with-Containers-Docker-and-the-IBM-Cloud-Container-Registry/assets/78807364/421b11c9-34d4-45a3-8cae-3e5ffa229411">
 
@@ -21,10 +21,19 @@ Docker uses a client-server architecture. The Docker client talks to the Docker 
 2. Docker Hub
    
 ## Objectives
+By the end of this guided project, you will have accomplished the following:
 
-Take a look at the basic objectives of this guided project provided by IBM Cognitive Class.
-1. Pull an image from the Docker Hub
-2. Run an image as a container using the docker
-3. Build an image using a Dockerfile
-4. Push an image to the IBM Cloud Container Registry
-5. Use the Docker command line interface (CLI)
+1. Pull an Image from Docker Hub: Learn how to retrieve Docker images from Docker Hub, the central repository for container images.
+2. Run an Image as a Container: Use Docker commands to run images as containers, gaining practical experience in container management.
+3. Build an Image using a Dockerfile: Understand the process of creating Docker images from Dockerfiles, which contain a series of instructions on how to build a Docker image.
+4. Push an Image to the IBM Cloud Container Registry: Discover how to push your Docker images to the IBM Cloud Container Registry, enabling seamless integration and deployment in the cloud.
+5. Use the Docker Command Line Interface (CLI): Get hands-on experience with the Docker CLI, a powerful tool for interacting with Docker and managing containers.
+
+## Conclusion
+Containerization is a pivotal technology in modern software development, enhancing portability, scalability, and efficiency. This beginner-friendly project by IBM Cognitive Class AI demystifies the process, providing you with the essential skills to navigate and utilize Docker containers effectively. By completing this guided project, you will be well-prepared to integrate containers into your workflow, leveraging the benefits of microservices architecture for robust and scalable cloud applications.
+
+Embark on this journey and unlock the potential of containerization with Docker—your gateway to the future of cloud computing.
+
+
+
+
